@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Numbers Generator", "Prime Numbers Generator\Prime Numbers Generator.csproj", "{0E0F031C-A190-4892-8D99-2600FFB60D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DCDBADC5-D9F9-4BD8-B54C-FDBEAE168B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0F031C-A190-4892-8D99-2600FFB60D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0F031C-A190-4892-8D99-2600FFB60D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0F031C-A190-4892-8D99-2600FFB60D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0F031C-A190-4892-8D99-2600FFB60D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDBADC5-D9F9-4BD8-B54C-FDBEAE168B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDBADC5-D9F9-4BD8-B54C-FDBEAE168B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDBADC5-D9F9-4BD8-B54C-FDBEAE168B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDBADC5-D9F9-4BD8-B54C-FDBEAE168B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
